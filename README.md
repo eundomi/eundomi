@@ -6,7 +6,8 @@
 
   <br/>
   <p>
-  <a href="https://eundomi.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://eundomi.tistory.com/"/></a>&nbsp
+  <a href="https://eundomi.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://eundomi.tistory.com/"/></a>
+  <a href="https://eundomi.github.io/resume/"><img src="https://img.shields.io/badge/HOMEPAGE-273A60?style=for-the-badge&logo=HomeAdvisor&logoColor=white&link=sandy131712@gmail.com"/></a>
   <a href="mailto:sandy131712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=sandy131712@gmail.com"/></a>
 </p>
 <br/>
