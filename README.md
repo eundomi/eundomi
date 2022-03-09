@@ -2,6 +2,7 @@
 
 <div align='center'>
 	<h2>Hi 👋, I'm Eunjung</h2>
+	
   <p>🌱 I'm growing FrontEnd Developer 🌳</p>
 
   <br/>
@@ -11,7 +12,6 @@
   <a href="mailto:sandy131712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=sandy131712@gmail.com"/></a>
 </p>
 <br/>
-  <hr/>
   <br/>
 
   <h3 align="center">🛠 Tech Stack 🛠</h3>
